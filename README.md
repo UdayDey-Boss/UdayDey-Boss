@@ -46,7 +46,6 @@ I am passionate about Full-Stack Web Development and Software Engineering. I enj
 
 - 🛒 Bazar Hisab – Smart Shopping & Expense Tracker
 - 📚 Library Management System
-- 🤖 Customer Segmentation using Machine Learning
 
 ➡️ Visit my repositories to explore each project.
 
@@ -62,8 +61,3 @@ I am passionate about Full-Stack Web Development and Software Engineering. I enj
 - 📧 Email:udayday4.ud@gmail.com
 - 💼 LinkedIn:https://www.linkedin.com/in/udaydey/
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=UdayDey-Boss&show_icons=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=UdayDey-Boss&layout=compact)
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=UdayDey-Boss)](https://git.io/streak-stats)
