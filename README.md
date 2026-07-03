@@ -10,30 +10,30 @@
 
 ## Computer Science & Engineering Student at AIUB
 
-I am a Computer Science & Engineering student passionate about Full-Stack Web Development and Software Engineering. I enjoy building practical web applications, learning new technologies, and solving real-world problems through software.
+I am passionate about Full-Stack Web Development and Software Engineering. I enjoy building practical web applications and continuously learning modern technologies.
 
 ---
 
 ## 💻 Technical Skills
 
-### Programming Languages
+**Languages**
 - C#
 - PHP
 - JavaScript
 - SQL
 
-### Web Technologies
+**Web Technologies**
 - HTML5
 - CSS3
 - AJAX
 - JSON
 - MVC Architecture
 
-### Databases
+**Databases**
 - MySQL
 - Oracle Database
 
-### Development Tools
+**Tools**
 - Visual Studio
 - Visual Studio Code
 - Git
@@ -44,141 +44,11 @@ I am a Computer Science & Engineering student passionate about Full-Stack Web De
 
 ## 🚀 Featured Projects
 
-# 🛒 Bazar Hisab – Smart Shopping & Expense Tracker
+- 🛒 Bazar Hisab – Smart Shopping & Expense Tracker
+- 📚 Library Management System
+- 🤖 Customer Segmentation using Machine Learning
 
-A full-stack MVC-based web application built with PHP and MySQL to simplify household shopping and expense management. The application helps users create shopping lists, track expenses, manage purchased items, and monitor product expiry through a modern and responsive interface.
-
-## ✨ Key Features
-
-- 🔐 Secure user registration and login
-- 👤 User profile management
-- 🛒 Shopping list management
-- ✅ Mark items as purchased
-- 🎤 Voice-based item entry using the Web Speech API
-- 🇧🇩 Supports Bangla and Banglish voice commands
-- 💰 Expense tracking and management
-- 📊 Category-wise expense summary
-- ⏰ Expiry date reminders
-- ⚡ AJAX-based dynamic updates without page reloads
-- 🔎 Search and filter functionality
-- 📱 Responsive user interface
-
-## 🛠️ Technologies Used
-
-- PHP
-- MySQL
-- HTML5
-- CSS3
-- JavaScript
-- AJAX
-- JSON
-- MVC Architecture
-
-## 🔒 Security Features
-
-- PHP Sessions
-- Password hashing (bcrypt)
-- Prepared SQL Statements
-- Server-side validation
-- XSS protection using `htmlspecialchars()`
-
-## 📂 Database
-
-- Users
-- Shopping List
-- Expenses
-- Categories
-
-## 🚀 Installation
-
-1. Clone the repository
-2. Import the database
-3. Configure database credentials
-4. Run the project using XAMPP
-
-## 👨‍💻 Author
-
-Uday Dey
-
----
-
-# 📚 Library Management System
-
-A full-stack MVC-based web application developed as an academic team project to simplify library operations. The system provides secure user authentication, book management, borrowing and return tracking, fine calculation, and role-based access control through an intuitive web interface.
-
----
-
-## ✨ Key Features
-
-- 🔐 Secure user registration and login
-- 👥 Role-based authentication (Admin & Member)
-- 👤 User profile management
-- 📖 Book catalog management
-- ➕ Add, edit, update, and delete books
-- 🔍 Search books by title, author, or category
-- 📚 Borrow and return book management
-- 💰 Automatic fine calculation for overdue books
-- 📋 Borrowing history tracking
-- ⚡ AJAX-powered dynamic updates without page reloads
-- 📱 Responsive and user-friendly interface
-
----
-
-## 🛠️ Technologies Used
-
-- PHP
-- MySQL
-- HTML5
-- CSS3
-- JavaScript
-- AJAX
-- JSON
-- MVC Architecture
-
----
-
-## 🔒 Security Features
-
-- PHP Sessions
-- Role-Based Authentication
-- Prepared SQL Statements
-- Server-side Input Validation
-- Password Hashing
-- XSS Protection using `htmlspecialchars()`
-
----
-
-## 🗄️ Database Design
-
-- Users
-- Books
-- Categories
-- Borrow Records
-- Fine Management
-
----
-
-## 🚀 Installation
-
-1. Clone the repository.
-2. Import the MySQL database.
-3. Configure the database connection.
-4. Run the project using XAMPP or another PHP server.
-5. Open the application in your browser.
-
-
----
-
-## 👥 Team
-
-- **Team Leader:** Uday Dey
----
-
-## 📌 Project Information
-
-**Project Type:** Academic Team Project
-
-Developed as part of the **Web Technologies** course using the MVC architecture to demonstrate practical skills in web application development, database management, authentication, and secure CRUD operations.
+➡️ Visit my repositories to explore each project.
 
 ---
 
@@ -187,12 +57,13 @@ Developed as part of the **Web Technologies** course using the MVC architecture 
 - Full-Stack Web Development
 - Software Engineering Best Practices
 
-
----
-
 ## 📫 Contact
 
 - 📧 Email:udayday4.ud@gmail.com
 - 💼 LinkedIn:https://www.linkedin.com/in/udaydey/
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=UdayDey-Boss&show_icons=true)
 
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=UdayDey-Boss&layout=compact)
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=UdayDey-Boss)](https://git.io/streak-stats)
